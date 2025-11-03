@@ -1,0 +1,1 @@
+Place your Geolife 'UserXXX' folders here, or point --geolife_dir to your actual location.
